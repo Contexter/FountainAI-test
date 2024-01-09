@@ -1,7 +1,7 @@
 # FountainAI: Enhanced Screenplay Writing with AI
 
 ## Introduction and Goals
-FountainAI is aimed at democratizing Ai model training & the writing process by integrating and training advanced AI features. Building upon a classic writing app ( a Fountain screenplay app ), this project infuses AI capabilities using Replicate and OpenAI APIs, complemented by a robust Strapi backend for detailed interaction logging. The goal is to provide  writers with an intuitive, AI-enhanced tool that simplifies and enriches the creative writing process AND manages data to format and train a specialized AI model.
+FountainAI is aimed at democratizing AI model training & the writing process by integrating and training advanced AI features. Building upon a classic writing app ( a Fountain screenplay app ), this project infuses AI capabilities using Replicate and OpenAI APIs, complemented by a robust Strapi backend for detailed interaction logging. The goal is to provide  writers with an intuitive, AI-enhanced tool that simplifies and enriches the creative writing process AND manages data to format and train a specialized AI model.
 
 ## Project Overview
 The primary objective is to enhance the Fountain app with AI-driven features for script analysis, suggestion, and content generation, while ensuring seamless user experiences. The project involves:
