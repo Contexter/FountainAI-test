@@ -59,3 +59,30 @@ Our primary goal is to enhance the Fountain app with intuitive AI-driven feature
 - Enhanced user experience with personalized AI assistance.
 - Continuous improvement of AI models based on user input.
 - Regular data backups, robust contingency plans, and adherence to API usage limits.
+
+# AI-Driven Rewriting Assistance Concept
+
+## 1. Personalized Writing Assistant
+- Trains on a single writer's work, adapting to their style.
+- Acts as a tool for generating and refining content in the writer's voice.
+
+## 2. Iterative Learning from Rewrites
+- Learns from writer's rewrites to improve initial outputs.
+- Leads to a more efficient and tailored writing assistant.
+
+## 3. Enhanced Creative Process
+- AI proposes initial ideas or drafts for writer's refinement.
+- Enhances creativity and brings new perspectives.
+
+## 4. Image Captioning Integration
+- Incorporates image captioning from models like Stable Diffusion 1.5.
+- Provides visual inspiration and context for rewriting.
+
+## 5. Multi-Modal Training Approach
+- Trains on both text and image captions for robust understanding.
+- Helps in creating text that aligns with visual themes.
+
+## 6. Challenges and Considerations
+- Emphasizes quality control in AI and image generation.
+- Balances creative inspiration with text coherence.
+- Ensures alignment between text and visual content.
