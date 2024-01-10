@@ -2,6 +2,8 @@
 
 > "What if FountainAI embarked on a journey to fine-tune the Lit-6B model from Hugging Face for its screenplay enhancement needs? This venture would mean adapting a model adept in fictional text generation to the specific nuances of screenwriting. The fine-tuning process would involve training Lit-6B on screenplays to make it proficient in script-specific dialogues and scene descriptions. Such an adaptation could create a tool that not only assists writers in various narrative styles but also stays true to the essence of screenplay writing."
 
+Sure. Let's train on what I write! :)
+
 For more information on the Lit-6B model, visit [Hugging Face’s Lit-6B](https://huggingface.co/hakurei/lit-6B#lit-6b---a-large-fine-tuned-model-for-fictional-storytelling).
 
 
