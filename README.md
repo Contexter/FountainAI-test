@@ -1,7 +1,7 @@
 # FountainAI: Enhanced Screenplay Writing with AI
 
 ## Introduction and Goals
-FountainAI revolutionizes screenplay writing by democratizing AI model training. This project enhances a classic writing app (Fountain screenplay app) with AI capabilities using Replicate and OpenAI APIs. The unique addition is the integration of Label Studio for interactive data annotation, coupled with Hugging Face Spaces for hosting AI models. The aim is to provide writers with an AI-enhanced tool for creative writing, enabling them to train specialized AI models for personalized assistance.
+FountainAI aims to extend the creative writing process by democratizing AI model training. This project extends a classic writing app with AI capabilities by calling relevant industrial network services. The aim is to provide writers with an AI-enhanced assitance to train proprietary AI models to self defined purpose and creative benefit.
 
 ## Project Overview
 Our primary goal is to enhance the Fountain app with intuitive AI-driven features for script analysis, suggestion, and content generation. The project's key components include:
